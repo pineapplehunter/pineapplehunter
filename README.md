@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Shogo Takata!
+
+- I am currently learning baremetal programming. It's very fun!
+- Feel free to ask me anything!
+- You can find me at...
+  - twitter: @daniel_program
+
 
 <!--
 **pineapplehunter/pineapplehunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
