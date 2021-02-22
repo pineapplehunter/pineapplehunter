@@ -4,7 +4,7 @@
 - Feel free to ask me anything!
 - You can find me at...
   - twitter: @daniel_program
-  - blog: [学生たちの技術ブログ](students-tech.blog)
+  - blog: [学生たちの技術ブログ](https://students-tech.blog)
 
 
 <!--
